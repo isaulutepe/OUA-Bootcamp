@@ -9,20 +9,17 @@ TAKIM OUA-U-57
 
 ### TAKIM ELEMANLARI
 
-- **Ceyda DEVEBACAK** Product Owner
-- **Yazgı Beriy GÜLER** Scrum Master
-- **İsa ULUTEPE**  Developer
-- **Furkan ÖZSOY** Developer
+- **İsa ULUTEPE**  Developer - Level Designer
 - **Hüseyin YILDIRIM** Developer
 ---
 
 ### ÜRÜN İSMİ
 
----
+Zenith
 
 ### ÜRÜN AÇIKLAMASI
 
-- "..." adlı bu heyecan verici oyunda, oyuncular çeşitli zorlukları aşarak dungeon'dan kaçmaya çalışmaktadırlar. Dungeonda 14 farklı oda bulunmaktadır ve her odada farklı bir bulmaca veya engel seti oyuncuları beklemektedir. Her odada bulunan engeller aşılarak oyunun hikayesi oyuncu tarafından keşfedilir. Tek bir dönem üzerine tasarlanmış bu oyunda oyuncular hikayeler, puzzlelar ve aksiyon dolu görevleri tamamlayarak eğlenceli ve heyecanlı zaman geçirecekler.
+- "Zenith" adlı bu heyecan verici oyunda, oyuncular çeşitli zorlukları aşarak dungeon'dan kaçmaya çalışmaktadırlar. Dungeonda 14 farklı oda bulunmaktadır ve her odada farklı bir bulmaca veya engel seti oyuncuları beklemektedir. Her odada bulunan engeller aşılarak oyunun hikayesi oyuncu tarafından keşfedilir. Tek bir dönem üzerine tasarlanmış bu oyunda oyuncular hikayeler, puzzlelar ve aksiyon dolu görevleri tamamlayarak eğlenceli ve heyecanlı zaman geçirecekler.
 
 ---
 
